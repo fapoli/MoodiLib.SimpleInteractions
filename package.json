@@ -1,0 +1,15 @@
+{
+  "name": "com.moodylib.interactions",
+  "version": "1.0.0",
+  "displayName": "Interactions",
+  "description": "A lightweight and extensible interaction framework for Unity built around a clean separation between interaction logic and visual presentation.",
+  "author": {
+    "name": "Federico Poli",
+    "url": "https://github.com/fapoli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fapoli/MoodyLib.Interactions"
+  }
+}
+
